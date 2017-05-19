@@ -11,4 +11,4 @@ description = "About me and this site"
 
 ## 关于本站
 
-本站由 [Hugo](https://gohugo.io/) 生成，使用 [Blackburn](https://github.com/yoshiharuyamashita/blackburn) 为主题， 托管与[netlify](https://app.netlify.com), 您可以在 [Github](https://github.com/mx-in/muxin) 上找到本站源码。
+本站由 [Hugo](https://gohugo.io/) 生成，使用 [Blackburn](https://github.com/yoshiharuyamashita/blackburn) 为主题， 托管与 [netlify](https://app.netlify.com), 您可以在 [Github](https://github.com/mx-in/muxin) 上找到本站源码。
