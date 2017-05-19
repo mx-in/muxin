@@ -1,0 +1,3 @@
+[submodule "site/themes/blackburn"]
+	path = site/themes/blackburn
+	url = https://github.com/mx-in/blackburn.git
